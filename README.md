@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning web development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Advanced CSS, Javascript**
 
 - 📫 How to reach me **wyomartin@icloud.com**
 
